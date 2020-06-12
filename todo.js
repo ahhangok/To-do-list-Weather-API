@@ -4,10 +4,6 @@ const toDoForm = document.querySelector(".js-toDoForm"),
 
 const TODOS_LS = "toDos";
 
-function filterFn(toDo) {
-  return toDo.id === 1;
-}
-
 let toDos = [];
 
 function deleteToDo(event) {
