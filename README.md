@@ -2,9 +2,11 @@
 <p>
 </p>
 
-> It is a site where you can use the weather API to inform the weather of where you live and to write various things to do.<br>
+> It is a site where you can use the weather API to inform the weather of where you live and to write various things to do.
 > Insert Your API_KEY in app.js (https://openweathermap.org/api)
 
+>
+Go to the React-Native app using the same API! https://github.com/ahhangok/React-Native-Weather
 
 ## Project period
 > About 2 weeks
